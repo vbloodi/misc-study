@@ -1,1 +1,1 @@
-test repo
+https://vbloodi.github.io/rsschool-cv/cv
