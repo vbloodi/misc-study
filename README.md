@@ -1,1 +1,1 @@
-Repository for random studying materials
+Repository for misc studying materials
