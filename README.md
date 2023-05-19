@@ -1,1 +1,1 @@
-Temporary Repository
+Repository for random studying materials
